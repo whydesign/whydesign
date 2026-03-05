@@ -2,8 +2,6 @@
 
 ## 👋 Hi There
 
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whydesign&theme=radical&show_icons=true&hide_border=true&layout=compact&hide_title=true&locale=de" />
-
 ---
 
 ![Alt text](./avatar.svg)
