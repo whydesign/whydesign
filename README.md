@@ -4,7 +4,7 @@
 
 ---
 
-![hack yeah](./avatar_cat.png)
+![hack yeah](https://raw.githubusercontent.com/whydesign/whydesign/refs/heads/main/avatar_cat.png)
 
 **--code**
 ```txt
