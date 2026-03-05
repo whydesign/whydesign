@@ -4,16 +4,16 @@
 
 ---
 
-![Alt text](./avatar.svg)
+![hack yeah](./avatar_cat.png)
 
 **--code**
 ```txt
-.html / .css / .js / .php / .sql / .python / .lua / .bash / .ino ...
+.html / .css / .js / .php / .sql / .python / .lua / .bash / .ino / .md ...
 ```
 
 **--tools**
 ```txt
-laravel, symfony, contao, wordpress, pagekit, vitepress, jira, youtrack, figma, sketch, postman, docker, cli, git, composer, phpstorm, pocketbase ...
+laravel, symfony, contao, wordpress, pagekit, vitepress, jira, youtrack, figma, sketch, affinity, postman, docker, ddev, zsh, git, composer, phpstorm, pocketbase, umbrelos ...
 ```
 
 **--libs**
